@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaghadHas21
-- 👀 I’m interested in interfaces design "front-end"
+- 👀 I’m interested in interfaces design and all about front-end developing
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on working in any field that contribute to the devolopment of my skills 
 - 📫 to reach me on : email/Raghadalsayed18@gmail.com or whatsapp/+966553611963 
